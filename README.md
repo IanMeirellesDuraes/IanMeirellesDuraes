@@ -15,5 +15,5 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 
 ## Contatos
 
-- **LinkedIn**: [linkedin.com/in/ian-meirelles-duraes](https://www.linkedin.com/in/ian-meirelles-duraes/)
-- **E-mail**: [ianmeirellesd@gmail.com](mailto:ianmeirellesd@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/ian-meirelles-duraes/)
+- [**E-mail**](mailto:ianmeirellesd@gmail.com)
