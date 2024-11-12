@@ -8,10 +8,11 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 
 - **Dados & AI**
 - **LLMs**
-- **Machine Learning**
+- **CrewAI**
+- **Multi-Agents
+- **Langchain**
 - **Deep Learning**
 - **Big Data**
-- **Agentes de IA**
 
 ## Contatos
 
