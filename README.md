@@ -12,7 +12,6 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 - **Multi-Agents**
 - **Langchain**
 - **Deep Learning**
-- **Big Data**
 
 ## Contatos
 
