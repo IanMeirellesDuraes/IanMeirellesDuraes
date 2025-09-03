@@ -7,7 +7,7 @@ Sou um Cientista de Dados especializado em aplicar modelos de Linguagem de Grand
 ## Áreas de Interesse
 
 - **Dados & AI**
-- **LangGraph
+- **LangGraph**
 - **Agent Workflows**
 - **LLMs**
 - **CrewAI**
